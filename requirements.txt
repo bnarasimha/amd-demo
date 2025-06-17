@@ -1,5 +1,13 @@
-torch
 diffusers
 transformers
 protobuf
 sentencepiece
+nibabel
+matplotlib
+flask
+flask-cors
+python-dotenv
+requests
+hy3dgen
+numpy
+huggingface_hub
